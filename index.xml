@@ -6,14 +6,28 @@
     <description>Recent content on The EXP Dungeon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 09 Nov 2023 13:38:53 -0800</lastBuildDate><atom:link href="https://Thepontifex.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 09 Nov 2023 10:20:48 -0800</lastBuildDate><atom:link href="https://Thepontifex.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Shell of Power</title>
-      <link>https://Thepontifex.github.io/posts/mypost/</link>
-      <pubDate>Thu, 09 Nov 2023 13:38:53 -0800</pubDate>
+      <title>Scan EXP</title>
+      <link>https://Thepontifex.github.io/posts/mypost2/</link>
+      <pubDate>Thu, 09 Nov 2023 10:20:48 -0800</pubDate>
       
-      <guid>https://Thepontifex.github.io/posts/mypost/</guid>
-      <description>Here is some content</description>
+      <guid>https://Thepontifex.github.io/posts/mypost2/</guid>
+      <description>Over the last year I have had quite the rollercoaster ride when striving to rid my organizations network of as many vulnerabilities as possible for the sake of meeting compliance standards. Learning, mastering and fully Utilizing Security Center along that journey has given me invaluable lessons in network security and streamlining the process as a whole. There is a wealth of options and functionalities to be employed spanning from the customizable dashboards, great for feeding you relevant data as soon as you open the application to the reporting capability that we primarily used for uploading to external repositories for auditing purposes.</description>
+    </item>
+    
+    <item>
+      <title>The Shell of Power</title>
+      <link>https://Thepontifex.github.io/posts/mypost1/</link>
+      <pubDate>Sun, 22 Oct 2023 13:10:08 -0700</pubDate>
+      
+      <guid>https://Thepontifex.github.io/posts/mypost1/</guid>
+      <description>TOP 5 for finding content
+1.) Get-Content
+2.) Get-Process
+3.) Get-Command
+4.) Get-Service
+5.) Get-ChildItem</description>
     </item>
     
   </channel>
